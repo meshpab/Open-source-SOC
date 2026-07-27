@@ -1,3 +1,3 @@
 # pfSense-Firewall-Labs
 
-Enterprise-style pfSense firewall labs documenting the deployment, configuration, management, and security of modern network infrastructures.
+Hands-on pfSense firewall labs covering firewall deployment, firewall rules, NAT, VLANs, VPNs, logging, IDS/IPS integration, and network security in a virtual lab environment.
